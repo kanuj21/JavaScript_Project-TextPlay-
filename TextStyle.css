@@ -1,0 +1,19 @@
+.editer{
+	min-height: 500px;
+	background-color: #ebe6f0;
+}
+
+.input-group textarea{
+	background-color: inherit !important;
+	min-height: 500px !important;
+}
+.editer textarea[type=text]{
+	color: #780b0b;
+}
+
+/*.main{
+	display: none;
+}
+/*.navbar{
+	background-color: black;
+}*/
